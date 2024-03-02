@@ -24219,7 +24219,7 @@ const oM = [{
         tags: ["javascript", "html", "css"],
         liveview: "https://sharkie-game.vercel.app/",
         github: "https://github.com/davidhckh/sharkie-game",
-        alt: "Unity webgl based game where we can wallrun and grapple."
+        alt: "Unity webgl based game where we can wallrun and grapple:)"
     }, {
         id: 3,
         name: "Portfolio 2022",
