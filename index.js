@@ -24195,7 +24195,7 @@ class rM {
 }
 const oM = [{
         id: 0,
-        name: "Join",
+        name: "My first game",
         description: "Group managment tool to optimize workflows",
         image: "images/projects/join.jpg",
         tags: ["javascript", "backend", "html", "css"],
@@ -24204,7 +24204,7 @@ const oM = [{
         alt: "Group management tool to optimize workflows portfolio project"
     }, {
         id: 1,
-        name: "Pokedex",
+        name: "Chatroom",
         description: "A collection and description of all 898 Pokémon",
         image: "images/projects/pokedex.jpg",
         tags: ["javascript", "api", "html", "css"],
@@ -24213,7 +24213,7 @@ const oM = [{
         alt: "pokedex design detailed design portfolio project"
     }, {
         id: 2,
-        name: "Sharkie",
+        name: "Wallrun",
         description: "Unity webgl based game where we can wallrun and grapple.",
         image: "images/projects/sharkie.jpg",
         tags: ["javascript", "html", "css"],
@@ -24222,7 +24222,7 @@ const oM = [{
         alt: "Unity webgl based game where we can wallrun and grapple:)"
     }, {
         id: 3,
-        name: "Portfolio 2022",
+        name: "This website source code",
         description: "My portfolio website, you're probably looking at right now.",
         image: "images/projects/portfolio.jpg",
         tags: ["webgl", "javascript", "html", "css"],
@@ -24235,12 +24235,12 @@ const oM = [{
         twitter: "https://twitter.com/DavidHckh"
     }, {
         id: 4,
-        name: "Jelly Battle",
-        description: "Play as Jelly and fight against three other Jellys in a multiplayer free-for-all game",
+        name: "Join discord",
+        description: "Join my discord server to talk to me",
         image: "images/projects/jelly-battle.jpg",
         tags: ["webgl", "javascript", "socketio", "html", "css"],
         twitter: "https://twitter.com/DavidHckh",
-        alt: "work in progress portfolio project jelly battle strategy game flash multiplayer"
+        alt: "Join my discord server to talk to me"
     }],
     aM = {
         html: '<div class="work-item-tag" style="background: white; border: 1px solid #7C8594; color: #7C8594">HTML</div>',
