@@ -24328,20 +24328,20 @@ class lM {
     }
 }
 const cM = [{
-    name: "WebGL",
+    name: "CSS",
     width: "60%"
 }, {
-    name: "ReactJS",
+    name: "JS",
     width: "65%"
 }, {
-    name: "JavaScript",
+    name: "HTML",
     width: "85%"
 }, {
-    name: "HTML + CSS",
+    name: "OS torturing",
     width: "90%"
 }, {
-    name: "3D Modelling",
-    width: "60%"
+    name: "Editing",
+    width: "55%"
 }];
 class hM {
     constructor() {
