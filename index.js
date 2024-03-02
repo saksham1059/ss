@@ -24217,7 +24217,7 @@ const oM = [{
         description: "Unity webgl based game where we can wallrun and grapple.",
         image: "images/projects/sharkie.jpg",
         tags: ["javascript", "html", "css"],
-        liveview: "https://sharkie-game.vercel.app/",
+        liveview: "https://sakshamchugh.com/wallrun.html",
         github: "https://github.com/davidhckh/sharkie-game",
         alt: "Unity webgl based game where we can wallrun and grapple:)"
     }, {
