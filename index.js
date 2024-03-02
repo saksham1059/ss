@@ -24196,21 +24196,21 @@ class rM {
 const oM = [{
         id: 0,
         name: "My first game",
-        description: "Group managment tool to optimize workflows",
+        description: "Welcome to my first game. yea its a ripp of falppy bird",
         image: "images/projects/join.jpg",
         tags: ["javascript", "backend", "html", "css"],
         liveview: "https://join.david-hckh.com/",
         github: "https://github.com/davidhckh/join",
-        alt: "Group management tool to optimize workflows portfolio project"
+        alt: "Welcome to my first game. yea its a ripp of falppy bird"
     }, {
         id: 1,
         name: "Chatroom",
-        description: "A collection and description of all 898 Pokémon",
+        description: "A simple chatroom using firebase realtime database",
         image: "images/projects/pokedex.jpg",
         tags: ["javascript", "api", "html", "css"],
         liveview: "https://js-pokedex-virid.vercel.app/",
         github: "https://github.com/davidhckh/pokedex",
-        alt: "pokedex design detailed design portfolio project"
+        alt: "A simple chatroom using firebase realtime database"
     }, {
         id: 2,
         name: "Wallrun",
