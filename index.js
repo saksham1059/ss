@@ -24214,12 +24214,12 @@ const oM = [{
     }, {
         id: 2,
         name: "Sharkie",
-        description: "JavaScript based jump-and-run game",
+        description: "Unity webgl based game where we can wallrun and grapple.",
         image: "images/projects/sharkie.jpg",
         tags: ["javascript", "html", "css"],
         liveview: "https://sharkie-game.vercel.app/",
         github: "https://github.com/davidhckh/sharkie-game",
-        alt: "javascript based jump-and-run game portfolio project"
+        alt: "Unity webgl based game where we can wallrun and grapple."
     }, {
         id: 3,
         name: "Portfolio 2022",
