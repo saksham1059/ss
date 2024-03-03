@@ -24206,10 +24206,10 @@ const oM = [{
         id: 1,
         name: "Chatroom",
         description: "A simple chatroom using firebase realtime database",
-        image: "images/projects/pokedex.jpg",
+        image: "images/projects/Jokedex.jpg",
         tags: ["javascript", "api", "html", "css"],
-        liveview: "https://js-pokedex-virid.vercel.app/",
-        github: "https://github.com/davidhckh/pokedex",
+        liveview: "https://sakshamchugh.com/chat.html/",
+        github: "https://github.com/saksham1059/Trychat",
         alt: "A simple chatroom using firebase realtime database"
     }, {
         id: 2,
