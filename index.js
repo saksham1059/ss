@@ -24197,18 +24197,18 @@ const oM = [{
         id: 0,
         name: "My first game",
         description: "Welcome to my first game. yea its a ripp of falppy bird",
-        image: "images/projects/join.jpg",
+        image: "images/projects/lol.jpg",
         tags: ["javascript", "backend", "html", "css"],
-        liveview: "https://join.david-hckh.com/",
-        github: "https://github.com/davidhckh/join",
-        alt: "Welcome to my first game. yea its a ripp of falppy bird"
+        liveview: "https://saksham-chugh.itch.io/flappy-bird",
+        github: "https://sakshamchugh.com/#",
+        alt: "Welcome to my first game. yea its a ripp of flappy bird"
     }, {
         id: 1,
         name: "Chatroom",
         description: "A simple chatroom using firebase realtime database",
         image: "images/projects/Jokedex.jpg",
         tags: ["javascript", "api", "html", "css"],
-        liveview: "https://sakshamchugh.com/chat.html/",
+        liveview: "https://sakshamchugh.com/chat.html",
         github: "https://github.com/saksham1059/Trychat",
         alt: "A simple chatroom using firebase realtime database"
     }, {
