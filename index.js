@@ -24237,9 +24237,9 @@ const oM = [{
         id: 4,
         name: "Join discord",
         description: "Join my discord server to talk to me",
-        image: "images/projects/jelly-battle.jpg",
+        image: "images/projects/dc.jpg",
         tags: ["webgl", "javascript", "socketio", "html", "css"],
-        twitter: "https://twitter.com/DavidHckh",
+        twitter: "https://discord.com/invite/J6v3AVcD8E",
         alt: "Join my discord server to talk to me"
     }],
     aM = {
