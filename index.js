@@ -24226,13 +24226,13 @@ const oM = [{
         description: "My portfolio website, you're probably looking at right now.",
         image: "images/projects/portfolio.jpg",
         tags: ["webgl", "javascript", "html", "css"],
-        twitter: "https://twitter.com/DavidHckh",
+        twitter: "https://github.com/saksham1059/ss",
         alt: "david heckhoff portfolio project 2022 threejs blender 3d design",
         bannerIcons: [{
             src: "images/cssda-icon.png",
             alt: "cssda icon site of the day"
         }],
-        twitter: "https://twitter.com/DavidHckh"
+        twitter: "https://github.com/ss"
     }, {
         id: 4,
         name: "Join discord",
